@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="conf"/>
+	<classpathentry kind="con" path="com.genuitec.eclipse.j2eedt.core.J2EE14_CONTAINER"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-lang.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/sshd-core-0.8.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/bcprov-jdk15-140.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mina-core-2.0.5.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/slf4j-simple-1.6.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/sshd-pam-0.8.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/tomcat-apr-5.5.23.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/jtang-swift-api.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/json.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/httpmime-4.0.1.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
