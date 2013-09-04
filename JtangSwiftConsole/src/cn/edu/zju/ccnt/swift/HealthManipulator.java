@@ -33,7 +33,7 @@ public class HealthManipulator {
 	
 	/**
 	 * 执行swift-dispersion-populate：在集群中创建container和object
-	 * 		Usage: swift-get-nodes
+	 * 		Usage: swift-dispersion-populate
 	 *
 	 * @return
 	 */
